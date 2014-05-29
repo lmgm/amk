@@ -1,0 +1,20 @@
+/*
+Theme Name: Luismi - Un tema de Luis Miguel García
+Theme URI: http://miweb.com
+Author: Luis Miguel G.
+Author URI: http://luismi.com/
+Description: Tema minimalista diseñado y desarrollado por Luis Miguel G.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: apk
+*/
+
+/************
+//---------------------------------------------------------------------
+// 01 - IMPORTAR LESS COMPILADO
+//      para estilos específicos del tema
+//---------------------------------------------------------------------
+************/
+ 
+@import url('less/master.css');
